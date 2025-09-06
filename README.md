@@ -1,3 +1,6 @@
+DRIVE file .APK
+https://drive.google.com/file/d/1Nk4pNp1hIr0J3QzRm6XQ96sZ5_6YMRmd/view?usp=sharing 
+
 Screenshot Android studio
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/2927d836-fda0-4e65-a9ac-b1f5da0fa76d" />
 
